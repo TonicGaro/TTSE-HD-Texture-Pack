@@ -1,0 +1,30 @@
+; SCR 201
+; Scripts Parser Version 2.0.1
+; (c) Ubi Simulations 1997
+
+;*************************************
+;*** Memory description for Game   ***
+;*** All size are gived in bytes.  ***
+;*************************************
+{NewMemoryDescription:
+ ;*** 23/12/97 ***
+ ACPTextMemory(900000)
+ ACPFixMemory(2500000)
+ GameFixMemorySize(1400000)
+ AIFixMemory(150000)
+ TMPFixMemory(500000000)
+ SAIFixMemorySize(3500)
+
+ MenuMemorySize(40000)
+ FontMemorySize(35000,101000)
+ PositionMemorySize(1000)
+ InventoryMemory(4500, 3500) 
+ LipsSynchMemory(200000)
+ ScriptMemorySize(1,800000) 
+
+ AIMemory(250000)
+ ACPMemory(5000000)
+ GameLevelMemorySize(5500000)
+
+ UseMemorySnapshot(1)
+}

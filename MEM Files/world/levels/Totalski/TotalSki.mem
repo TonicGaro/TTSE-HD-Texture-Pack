@@ -1,0 +1,15 @@
+{NewMemoryDescription:
+; Gap(500000)
+ SAIMemorySize(75000)
+; Gap(1000000)
+; AIMemory(1000000)
+ TMPLevelMemory(200000000)
+; Gap(5000000)
+; ACPMemory(5000000)
+; Gap(10000000)
+; GameLevelMemorySize(5000000)
+; GameTempLevelMemorySize(10000000)
+ ScriptMemorySize(2,500000)
+
+ UseMemorySnapshot(1)
+}

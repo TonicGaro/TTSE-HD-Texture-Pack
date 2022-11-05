@@ -1,0 +1,8 @@
+{NewMemoryDescription:
+ SAIMemorySize(120000)
+ TMPLevelMemory(200000000)
+
+ ScriptMemorySize(2,1000000)
+
+ UseMemorySnapshot(1)
+}
