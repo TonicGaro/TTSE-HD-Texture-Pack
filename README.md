@@ -1,4 +1,5 @@
 # TTSE-HD-Texture-Pack
+## [DOWNLOAD LINK (LATEST RELEASE)](https://github.com/TonicGaro/TTSE-HD-Texture-Pack/releases/latest/download/TTSE.HD.7z)
 An AI upscaled texture pack for Tonic Trouble Special Edition.
 
 ![](https://github.com/TonicGaro/TTSE-HD-Texture-Pack/blob/main/TTSE%20HD%20Logo.png)
