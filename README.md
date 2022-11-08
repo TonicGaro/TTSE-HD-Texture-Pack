@@ -6,7 +6,7 @@ An AI upscaled texture pack for Tonic Trouble Special Edition.
 
 If you want to know how to use this texture pack yourself go [here](https://raymanpc.com/forum/viewtopic.php?t=74792).
 
-Credits to XanderNT for remaking the "crosshair" texture also known as gen_viseur_nz in game. Credits to [RayCarrot](https://github.com/RayCarrot) and Droolie for figuring out how to get this texture pack to work in game, this wouldn't have been possible without you guys! Credits to [Hipnosis183](https://www.deviantart.com/hipnosis183) on DevianArt, I got the high quality Tonic Trouble logo from them. Credits to [alweg](https://github.com/alweg) also known as Eddd for testing the texture pack on each version of Tonic Trouble Special Edition.
+Credits to XanderNT for remaking the "crosshair" texture also known as gen_viseur_nz in game. Credits to [RayCarrot](https://github.com/RayCarrot) and Droolie for figuring out how to get this texture pack to work in game, this wouldn't have been possible without you guys! Credits to [Hipnosis183](https://www.deviantart.com/hipnosis183) on DevianArt, I got the high quality Tonic Trouble logo from them. Credits to [alweg](https://github.com/alweg) also known as Eddd for testing the texture pack on each version of Tonic Trouble Special Edition, I also got the [Special Edition font](https://cdn.discordapp.com/attachments/422967503577415691/1038609905956962314/TT-SE-Regular.ttf) from them as well.
 
 # Texture Pack Compatibility List
 To check your version in-game load a level and press F12. Then type "VERSION" into the console and press Enter. If pressing F12 doesn't show the console then you have V8.1.0 of Tonic Trouble Special Edition.
