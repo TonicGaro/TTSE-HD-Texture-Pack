@@ -17,6 +17,18 @@ To check your version in-game load a level and press F12. Then type "VERSION" in
 
 * V8.5.2
 
+* V8.6.1
+
+* V8.6.2
+
+* V8.6.6
+
+* V8.6.8
+
+* V8.7.0
+
+* V8.7.4 (This texture pack was originally made for this version.)
+
 **This texture pack won't work on the following versions of Tonic Trouble Special Edition:**
 
 * V8.1.0
