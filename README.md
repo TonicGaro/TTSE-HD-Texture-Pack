@@ -43,3 +43,23 @@ Right click on the folder that contains the texture(s) you want to replace and c
 Once you've saved your changes make sure to sync the texture info before you start the game. "Utilities>Other" select the "GameData" folder when syncing.
 
 **IMPORTANT!!! Make sure you include the edited .mem files in the correct directories before you release your texture pack!** The default .mem files limit the texture memory in levels causing the game the crash when loading higher resolution textures.
+
+# Comparison Screenshots
+
+Original textures:
+![](https://github.com/TonicGaro/TTSE-HD-Texture-Pack/blob/main/Screenshots/Original1.png)
+
+HD textures:
+![](https://github.com/TonicGaro/TTSE-HD-Texture-Pack/blob/main/Screenshots/HD1.png)
+
+Original textures:
+![](https://github.com/TonicGaro/TTSE-HD-Texture-Pack/blob/main/Screenshots/Original2.png)
+
+HD textures:
+![](https://github.com/TonicGaro/TTSE-HD-Texture-Pack/blob/main/Screenshots/HD2.png)
+
+ED SELFIE!!!
+![](https://github.com/TonicGaro/TTSE-HD-Texture-Pack/blob/main/Screenshots/EDSELFIEoriginal.png)
+
+ED SELFIE ULTRA 8K HDR 100000000 FPS 900 MPH!!!
+![](https://github.com/TonicGaro/TTSE-HD-Texture-Pack/blob/main/Screenshots/EDSELFIEHD.png)
